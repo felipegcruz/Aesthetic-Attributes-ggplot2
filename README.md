@@ -2,7 +2,7 @@
 
 In this guide, you will learn about the three basic aesthetic attributes to consider when creating ggplot2 visualizations in R: color, size, and shape. These attributes are essential tools for creating data visualizations with ggplot2 and are built directly into its code.
 
-![Image of a triangle, sphere, and cube that are different colors and different sizes. The shapes all have eyes and smiling.](triangle_sphere_cube.png)
+![Alt text](aZ1OsjxiRHudTrI8YsR7Gw_f3a279f45132458495af0d6f1052b9c6_Screen-Shot-2021-03-02-at-1.14.50-PM.png)
 
 ## Aesthetics in ggplot2
 
@@ -37,4 +37,4 @@ For more information about aesthetic attributes, check out these resources:
 
 ---
 
-*Note: This README.md document is derived from the content provided in the reading on aesthetic attributes. The content and examples are originally sourced from that reading.*
+_Note: This README.md document is derived from the content provided in the reading on aesthetic attributes. The content and examples are originally sourced from that reading._
